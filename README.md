@@ -11,5 +11,7 @@ Personalized user profiles for a tailored experience.
 Intuitive task operations: create, update, delete.
 Real-time synchronization with Firebase backend.
 Flutter local notifications for timely reminders.
+
 Platform:
+
 Cross-platform - Available on both Android and iOS.
